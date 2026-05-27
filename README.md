@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi 👋, I'm Amol Bandgar
+#  Hi, I'm Amol Bandgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
 
