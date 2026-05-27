@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### ⚡ Software Engineer | Backend Developer | Python & Django Engineer
+### ⚡ Software Engineer | Backend Developer | Python & Django Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Python+%26+Django+Developer;Building+Scalable+Web+Applications;API+%26+Database+Focused;Software+Engineer+from+India" alt="Typing SVG" />
 
