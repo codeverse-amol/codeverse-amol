@@ -94,16 +94,6 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/codeverse-amol/codeverse-amol/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # 👀 Profile Visitors
 
 <div align="center">
