@@ -40,7 +40,7 @@
 # 🛠️ Tech Stack
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,django,djangorestframework,mongodb,mysql,docker,aws,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,django,mongodb,mysql,docker,aws,linux,git,github,vscode" />
 
 </p>
 
