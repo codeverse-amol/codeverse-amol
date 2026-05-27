@@ -69,7 +69,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://instagram.com/amolb30/" target="blank">
+<a href="https://instagram.com/amolb_30/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
 
