@@ -38,32 +38,11 @@
 ---
 
 # 🛠️ Tech Stack
+<p align="left">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mongodb,mysql,docker,aws,linux,git,github,vscode" />
 
-## 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-
----
-
-## ⚙️ Backend & Database
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=092E20)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
----
-
-## 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
+</p>
 
 ---
 
@@ -84,13 +63,20 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/in/the-amolb/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/amolb_30/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/codeverse-amol)
+<p align="left">
+<a href="https://linkedin.com/in/in/the-amolb/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 
-</div>
+<a href="https://instagram.com/amolb30/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://github.com/codeverse-amol" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+</p>
 
 ---
 
